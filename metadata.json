@@ -1,0 +1,6 @@
+{
+  "name": "Smart HC",
+  "description": "Aplikasi Human Capital interaktif untuk Karyawan, HRD, dan IT Management dengan absensi GPS, cuti, approval, dan validasi device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
